@@ -1,0 +1,3 @@
+MERCI ADMIN  <br>
+
+{{$nom}}

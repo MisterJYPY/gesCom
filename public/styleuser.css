@@ -1,0 +1,19 @@
+CSS
+
+body
+{
+    background: url('font.jpg');
+}
+.container
+{
+    max-width: 500px;
+    padding-left: 90px;
+    padding-top: 75px;
+}
+
+.btn-default:hover, .btn-default:focus
+{
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    color: white;
+}
